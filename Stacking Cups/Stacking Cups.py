@@ -1,10 +1,10 @@
-***Stacking Cups Solution***
-#Difficulty: 1.6
-Time Limit: 1 second, Memory Limit: 1024 MB
-#CPU Time: 0.05 s
-#Author: Darko Aleksic
-#Source: Rocky Mountain Regional Contest (RMRC) 2016
-#Link: https://open.kattis.com/problems/cups
+# ***Stacking Cups Solution***
+# Difficulty: 1.6
+# Time Limit: 1 second, Memory Limit: 1024 MB
+# CPU Time: 0.05 s
+# Author: Darko Aleksic
+# Source: Rocky Mountain Regional Contest (RMRC) 2016
+# Link: https://open.kattis.com/problems/cups
 
 
 import sys
