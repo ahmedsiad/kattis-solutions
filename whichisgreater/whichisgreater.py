@@ -7,6 +7,6 @@
 # Link: https://open.kattis.com/problems/whichisgreater
 
 
-a, b = list(map(int, input().split()))
+a,  b = list(map(int, input().split()))
 
 print("1") if a > b else print("0")
