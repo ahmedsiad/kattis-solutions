@@ -1,7 +1,7 @@
 # ***Synchronizing Lists Solution***
 # Difficulty: 1.6
 # Time Limit: 1 second, Memory Limit: 1024 MB
-# Acceptance: 50%
+# Acceptance: 61%
 # CPU Time: 0.07 s
 # Author: Greg Hamerly
 # Source: Baylor Competitive Learning course
@@ -29,7 +29,7 @@ while i < len(test_cases) - 1:
       h[list1s[k]] = list2s[k]
    for n in list1:
       print(h[n])
-   if i != len(test_cases) - 1: print("")
+   if i != len(test_cases) - 1: print("")  
     
     
       
