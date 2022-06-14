@@ -1,5 +1,5 @@
 # ***Add Two Numbers Solution***
-# Difficulty: Show
+# Difficulty: 1.2
 # Time Limit: 1 second, Memory Limit: 1024 MB
 # CPU Time: 0.04 s
 # Author: Greg Hamerly
@@ -7,5 +7,5 @@
 # Link: https://open.kattis.com/problems/addtwonumbers
 
 
-a, b = list(map(int, input().split()))
+a, b= list(map(int, input().split()))
 print(a+b)
