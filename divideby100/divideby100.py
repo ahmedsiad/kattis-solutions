@@ -1,7 +1,8 @@
 # ***Divide by 100... Solution***
 # Difficulty: 4.2
 # Time Limit: 1 second, Memory Limit: 1024 MB
-# CPU Time: 0.16 s
+# Acceptance: 30%
+# CPU Time: 0.15 s
 # Author: Modan Han
 # Source: Alberta Collegiate Programming Contest 2017
 # Link: https://open.kattis.com/problems/divideby100
@@ -39,5 +40,6 @@ else:
     ans.append(n[i])
 
 print("".join(ans))
+# amazing problem!!
   
 
