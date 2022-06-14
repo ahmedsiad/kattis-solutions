@@ -1,9 +1,10 @@
 # ***Basic Programming 2 Solution***
-# Difficulty: 2.6
+# Difficulty: 1.3
 # Time Limit: 1 second, Memory Limit: 1024 MB
+# Acceptance: 50%
 # CPU Time: 0.11 s
-# Author: Sample data files
-# Source: Steven Halim
+# Author: Steven Halim
+# Source: NUS Competitive Programming
 # Link: https://open.kattis.com/problems/basicprogramming2
 
 
@@ -50,5 +51,5 @@ elif t == 4:
   else:
     print(nums[n // 2])
 else:
-  l = [str(x) for x in nums if 100 <= x <= 999]
+  l = [str(x) for x in nums if 100 <= x <= 999] 
   print(" ".join(l))
