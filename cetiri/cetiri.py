@@ -1,9 +1,10 @@
 # ***Cetiri Solution***
 # Difficulty: 1.7
 # Time Limit: 1 second, Memory Limit: 1024 MB
-# CPU Time: 0.05 s
+# Acceptance: 55%
+# CPU Time: 0.04 s
 # Author: No author
-# Source: Croatian Open Competition in Informatics 2007/2008, contest #3
+# Source: No source
 # Link: https://open.kattis.com/problems/cetiri
 
 
@@ -17,3 +18,4 @@ elif d1 < d2:
   print(li[1] + d1)
 else:
   print(li[0] + d2)
+# hello
