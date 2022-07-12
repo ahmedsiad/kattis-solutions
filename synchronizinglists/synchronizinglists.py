@@ -30,7 +30,7 @@ while i < len(test_cases) - 1:
    for n in list1:
       print(h[n])
    if i != len(test_cases) - 1: print("")  
-    
+# good problem 2
     
       
 
