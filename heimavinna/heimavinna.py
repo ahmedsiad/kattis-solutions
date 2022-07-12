@@ -1,7 +1,7 @@
 # ***Homework Solution***
-# Difficulty: 7.6
+# Difficulty: 1.1
 # Time Limit: 1 second, Memory Limit: 1024 MB
-# Acceptance: 19%
+# Acceptance: 92%
 # CPU Time: 0.04 s
 # Author: No author
 # Source: No source
@@ -20,5 +20,5 @@ for i in sys.stdin:
         total += 1
 
 print(total)
-# test 23
+# test 234
 
